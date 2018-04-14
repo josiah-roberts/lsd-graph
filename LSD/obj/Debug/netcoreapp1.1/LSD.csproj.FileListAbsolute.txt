@@ -1,0 +1,9 @@
+C:\Users\Trinity\Documents\Visual Studio 2017\Projects\LSD\LSD\bin\Debug\netcoreapp1.1\LSD.deps.json
+C:\Users\Trinity\Documents\Visual Studio 2017\Projects\LSD\LSD\bin\Debug\netcoreapp1.1\LSD.runtimeconfig.json
+C:\Users\Trinity\Documents\Visual Studio 2017\Projects\LSD\LSD\bin\Debug\netcoreapp1.1\LSD.runtimeconfig.dev.json
+C:\Users\Trinity\Documents\Visual Studio 2017\Projects\LSD\LSD\bin\Debug\netcoreapp1.1\LSD.dll
+C:\Users\Trinity\Documents\Visual Studio 2017\Projects\LSD\LSD\obj\Debug\netcoreapp1.1\LSD.csprojResolveAssemblyReference.cache
+C:\Users\Trinity\Documents\Visual Studio 2017\Projects\LSD\LSD\obj\Debug\netcoreapp1.1\LSD.AssemblyInfo.cs
+C:\Users\Trinity\Documents\Visual Studio 2017\Projects\LSD\LSD\bin\Debug\netcoreapp1.1\LSD.pdb
+C:\Users\Trinity\Documents\Visual Studio 2017\Projects\LSD\LSD\obj\Debug\netcoreapp1.1\LSD.dll
+C:\Users\Trinity\Documents\Visual Studio 2017\Projects\LSD\LSD\obj\Debug\netcoreapp1.1\LSD.pdb

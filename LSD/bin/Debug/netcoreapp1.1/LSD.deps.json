@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "7b3b8d03008cce5ffa624d60e7b86ca1a3872196"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "lsd/1.0.0": {
+        "dependencies": {
+          "System.ValueTuple": "4.5.0-preview2-26406-04"
+        },
+        "runtime": {
+          "LSD.dll": {}
+        }
+      },
+      "system.valuetuple/4.5.0-preview2-26406-04": {
+        "runtime": {
+          "lib/netstandard1.0/System.ValueTuple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lsd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "system.valuetuple/4.5.0-preview2-26406-04": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t2FHL3LjfUfBFgzxQ2k8o26Hn28U3D7f6tHz0Q92JwGJN1GXfZLvbf6u66Qey/OvScaVHEHBKGT8cGRUyhA+9Q==",
+      "path": "system.valuetuple/4.5.0-preview2-26406-04",
+      "hashPath": "system.valuetuple.4.5.0-preview2-26406-04.nupkg.sha512"
+    }
+  }
+}
