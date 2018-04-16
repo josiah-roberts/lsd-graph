@@ -8,7 +8,7 @@ namespace LSD
     class HashGraph<TNode, TEdge> : Graph<TNode, TEdge>
     {
         private Dictionary<TNode, HashNode> nodes;
-        private Dictionary<int, HashEdge> edges;
+        private Dictionary<int, HashEdge> edges; 
 
         public HashGraph(IEnumerable<TNode> nodeValues) : base(nodeValues)
         {
